@@ -1,0 +1,101 @@
+EmployeeID,Department,Role,HireDate,Salary,PerformanceRating,SatisfactionScore,ProjectsCompleted,TrainingHours,Location
+E1001,Engineering,Software Developer,2021-03-15,110000.00,4,8.5,8,45,San Francisco
+E1002,Sales,Account Executive,2019-07-20,95000.00,3,7.2,5,30,New York
+E1003,Marketing,Marketing Specialist,2022-01-10,75000.00,4,9.1,6,20,Austin
+E1004,HR,HR Coordinator,2023-05-01,60000.00,2,6.5,4,15,New York
+E1005,Engineering,Data Scientist,2020-11-25,130000.00,5,9.5,7,50,San Francisco
+E1006,Sales,Sales Manager,2018-02-18,150000.00,4,8.8,9,35,Austin
+E1007,Marketing,Content Creator,2023-09-01,65000.00,3,7.8,3,10,New York
+E1008,HR,Recruiter,2022-06-12,70000.00,4,8.1,5,25,San Francisco
+E1009,Engineering,QA Tester,2024-02-01,85000.00,3,7.0,6,40,Austin
+E1010,Sales,Sales Representative,2021-04-05,80000.00,4,8.3,7,22,New York
+E1011,Marketing,SEO Specialist,2019-10-10,88000.00,5,9.3,10,60,San Francisco
+E1012,HR,Benefits Specialist,2020-08-20,68000.00,3,7.5,5,18,Austin
+E1013,Engineering,Backend Developer,2021-12-05,115000.00,4,8.6,8,55,New York
+E1014,Sales,Inside Sales,2023-03-01,72000.00,3,6.9,4,12,San Francisco
+E1015,Marketing,PPC Analyst,2022-04-15,82000.00,4,8.9,7,30,Austin
+E1016,HR,Training Specialist,2021-01-22,78000.00,5,9.6,6,45,New York
+E1017,Engineering,Frontend Developer,2020-06-01,105000.00,4,8.4,9,52,San Francisco
+E1018,Sales,Account Manager,2017-11-11,100000.00,3,7.1,8,28,Austin
+E1019,Marketing,Social Media Manager,2023-01-18,70000.00,4,9.0,5,20,New York
+E1020,HR,Compensation Analyst,2020-03-05,85000.00,2,6.8,4,15,San Francisco
+E1021,Engineering,DevOps Engineer,2021-08-08,125000.00,5,9.4,10,65,Austin
+E1022,Sales,Business Development,2022-05-20,105000.00,4,8.7,7,33,New York
+E1023,Marketing,Product Marketing,2019-11-15,92000.00,3,7.3,6,25,San Francisco
+E1024,HR,HR Generalist,2023-07-01,62000.00,4,8.0,4,18,Austin
+E1025,Engineering,Software Architect,2018-09-01,160000.00,5,9.8,12,70,New York
+E1026,Sales,Client Success,2024-01-05,70000.00,3,7.6,3,10,San Francisco
+E1027,Marketing,Email Specialist,2020-02-29,78000.00,4,8.2,5,24,Austin
+E1028,HR,Safety Officer,2021-06-16,65000.00,3,6.7,4,16,New York
+E1029,Engineering,Mobile Developer,2022-10-10,108000.00,4,8.5,8,48,San Francisco
+E1030,Sales,Sales Engineer,2019-03-22,120000.00,5,9.2,9,40,Austin
+E1031,Marketing,Copywriter,2023-04-01,68000.00,3,7.9,5,15,New York
+E1032,HR,Payroll Specialist,2020-10-30,75000.00,4,8.3,6,28,San Francisco
+E1033,Engineering,Full Stack Developer,2021-09-09,120000.00,4,8.7,8,55,Austin
+E1034,Sales,Channel Partner,2023-08-15,85000.00,3,7.0,4,10,New York
+E1035,Marketing,UX Researcher,2022-02-01,90000.00,5,9.5,7,35,San Francisco
+E1036,HR,ER Specialist,2019-05-14,80000.00,4,8.1,6,22,Austin
+E1037,Engineering,Site Reliability Eng,2020-12-01,135000.00,5,9.6,11,60,New York
+E1038,Sales,Regional Director,2017-06-01,180000.00,4,8.9,10,40,San Francisco
+E1039,Marketing,Graphic Designer,2024-03-01,60000.00,3,7.4,2,8,Austin
+E1040,HR,Talent Acquisition Mgr,2022-08-01,95000.00,4,8.4,7,32,New York
+E1041,Engineering,ML Engineer,2021-05-10,140000.00,5,9.7,9,68,San Francisco
+E1042,Sales,Sales Support,2023-02-14,68000.00,3,6.6,4,11,Austin
+E1043,Marketing,Brand Manager,2019-09-20,100000.00,4,8.8,8,38,New York
+E1044,HR,Immigration Specialist,2020-04-04,72000.00,3,7.7,5,19,San Francisco
+E1045,Engineering,System Administrator,2022-07-01,98000.00,4,8.2,7,42,Austin
+E1046,Sales,Key Account Manager,2018-10-10,130000.00,5,9.0,11,45,New York
+E1047,Marketing,Data Analyst,2023-11-20,80000.00,3,7.5,4,14,San Francisco
+E1048,HR,HRIS Analyst,2021-07-07,90000.00,4,8.6,6,26,Austin
+E1049,Engineering,Cloud Architect,2020-01-01,155000.00,5,9.9,13,75,New York
+E1050,Sales,Inside Sales Rep,2022-11-01,75000.00,3,6.9,5,12,San Francisco
+E1051,Marketing,Creative Director,2018-04-25,120000.00,4,9.1,10,50,Austin
+E1052,HR,L&D Specialist,2023-06-01,68000.00,3,7.1,4,17,New York
+E1053,Engineering,Firmware Engineer,2021-03-01,112000.00,4,8.5,8,45,San Francisco
+E1054,Sales,Field Sales Rep,2020-09-09,98000.00,5,9.3,9,38,Austin
+E1055,Marketing,PR Specialist,2024-01-15,62000.00,3,7.6,3,9,New York
+E1056,HR,Workplace Manager,2022-09-01,70000.00,4,8.2,5,20,San Francisco
+E1057,Engineering,Network Engineer,2020-05-12,105000.00,4,8.4,7,40,Austin
+E1058,Sales,VP of Sales,2016-01-01,220000.00,5,9.8,15,60,New York
+E1059,Marketing,Growth Hacker,2023-05-15,95000.00,4,8.7,6,30,San Francisco
+E1060,HR,HR Intern,2024-04-01,45000.00,2,6.0,2,5,Austin
+E1061,Engineering,Security Analyst,2021-11-11,128000.00,5,9.4,10,55,New York
+E1062,Sales,Account Executive,2019-01-25,90000.00,3,7.2,6,28,San Francisco
+E1063,Marketing,Copywriter,2022-03-08,72000.00,4,8.3,5,20,Austin
+E1064,HR,HR Coordinator,2020-12-05,60000.00,3,7.0,4,15,New York
+E1065,Engineering,Software Developer,2023-01-20,110000.00,4,8.6,7,48,San Francisco
+E1066,Sales,Sales Representative,2021-06-10,82000.00,3,7.7,5,24,Austin
+E1067,Marketing,Marketing Specialist,2019-02-01,76000.00,5,9.2,9,40,New York
+E1068,HR,Recruiter,2022-07-28,73000.00,4,8.5,6,30,San Francisco
+E1069,Engineering,Data Scientist,2020-04-14,135000.00,5,9.6,11,62,Austin
+E1070,Sales,Sales Manager,2018-08-01,160000.00,4,8.9,12,42,New York
+E1071,Marketing,Content Creator,2023-10-01,67000.00,3,7.3,3,10,San Francisco
+E1072,HR,Benefits Specialist,2021-02-01,69000.00,4,8.1,5,20,Austin
+E1073,Engineering,QA Tester,2024-01-01,88000.00,3,7.5,5,35,New York
+E1074,Sales,Inside Sales,2023-04-10,70000.00,4,8.0,6,15,San Francisco
+E1075,Marketing,PPC Analyst,2022-05-25,85000.00,5,9.3,8,35,Austin
+E1076,HR,Training Specialist,2020-11-01,80000.00,3,7.4,5,20,New York
+E1077,Engineering,Backend Developer,2021-07-15,118000.00,4,8.8,9,58,San Francisco
+E1078,Sales,Account Manager,2017-09-01,105000.00,4,8.2,10,32,Austin
+E1079,Marketing,Social Media Manager,2023-02-20,72000.00,3,7.8,4,18,New York
+E1080,HR,Compensation Analyst,2020-01-01,88000.00,5,9.5,8,40,San Francisco
+E1081,Engineering,DevOps Engineer,2021-10-01,130000.00,4,8.7,9,50,Austin
+E1082,Sales,Business Development,2022-06-25,100000.00,3,7.1,6,25,New York
+E1083,Marketing,Product Marketing,2019-12-05,95000.00,4,8.6,8,30,San Francisco
+E1084,HR,HR Generalist,2023-08-10,65000.00,3,7.2,3,10,Austin
+E1085,Engineering,Software Architect,2018-11-01,170000.00,5,9.9,14,80,New York
+E1086,Sales,Client Success,2024-02-10,73000.00,4,8.3,4,15,San Francisco
+E1087,Marketing,Email Specialist,2020-03-15,80000.00,3,7.9,6,28,Austin
+E1088,HR,Safety Officer,2021-08-20,68000.00,4,8.4,5,22,New York
+E1089,Engineering,Mobile Developer,2022-11-15,112000.00,5,9.1,10,55,San Francisco
+E1090,Sales,Sales Engineer,2019-04-01,125000.00,4,8.8,11,45,Austin
+E1091,Marketing,Copywriter,2023-05-10,70000.00,3,7.7,4,16,New York
+E1092,HR,Payroll Specialist,2020-11-15,78000.00,4,8.6,7,30,San Francisco
+E1093,Engineering,Full Stack Developer,2021-10-10,125000.00,5,9.3,10,60,Austin
+E1094,Sales,Channel Partner,2023-09-05,88000.00,3,7.0,5,12,New York
+E1095,Marketing,UX Researcher,2022-03-01,92000.00,4,8.9,7,38,San Francisco
+E1096,HR,ER Specialist,2019-06-20,82000.00,5,9.5,8,35,Austin
+E1097,Engineering,Site Reliability Eng,2020-10-20,140000.00,4,8.7,12,65,New York
+E1098,Sales,Regional Director,2017-07-15,190000.00,5,9.1,13,50,San Francisco
+E1099,Marketing,Graphic Designer,2024-04-10,62000.00,3,7.5,3,10,Austin
+E1100,HR,Talent Acquisition Mgr,2022-09-15,98000.00,4,8.8,8,35,New York

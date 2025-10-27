@@ -1,0 +1,4514 @@
+hod
+ard
+d
+10
+d
+10
+al
+1
+rd
+1
+ard
+100
+rd
+1
+ard
+100
+ard
+100
+rd
+1
+al
+1
+d
+10
+100
+100
+al
+1
+100
+ard
+ard
+rd
+1
+rd
+1
+ard
+ard
+al
+1
+100
+100
+ard
+ard
+d
+10
+d
+10
+Pal
+ard
+ard
+rd
+1
+rd
+1
+rd
+1
+d
+10
+d
+10
+100
+d
+10
+rd
+1
+al
+1
+d
+10
+al
+1
+rd
+1
+ard
+Pal
+rd
+1
+d
+10
+ard
+100
+al
+1
+100
+100
+ard
+al
+1
+d
+rID,
+omer
+tego
+ctNa
+ity,
+Pric
+,Ord
+erDa
+te,R
+egio
+1001
+rtph
+one 
+l X,
+,799
+ard
+02,C
+,Men
+-Shi
+rt B
+2,25
+100
+003,
+1,Mi
+d
+10
+04,B
+,Fic
+rd
+1
+005,
+ Hea
+d
+10
+06,A
+el,W
+omen
+ Ski
+nny,
+1,55
+100
+0,12
+ard
+ookb
+2,30
+d
+10
+arge
+r Un
+iver
+d
+10
+id's
+ Sne
+s Re
+d,1,
+45.9
+9,45
+04,E
+al
+1
+mart
+uum 
+,350
+04,M
+rd
+1
+012,
+ogra
+of A
+rtis
+,Ext
+l SS
+D 1T
+95.0
+014,
+4,Ap
+l,Sc
+ool,
+4,18
+015,
+,Set
+6 Di
+ Pla
+016,
+6,Bo
+,1,7
+ouse
+1018
+ebal
+l Ca
+p Bl
+2,12
+9-06
+100
+9,Ho
+mp L
+ED,1
+3.99
+ard
+20,C
+1020
+Help
+ Gui
+100
+021,
+s,Ac
+4K,1
+,299
+rd
+1
+Sock
+s At
+10.0
+al
+1
+ryer
+pact
+,69.
+90,2
+8,Mi
+0024
+24,B
+Coll
+on,2
+5,El
+s,Sm
+artw
+atch
+100
+al
+1
+ds,C
+andl
+e Se
+er,3
+28,C
+l Gu
+Euro
+-10,
+100
+9,El
+le S
+er M
+2,55
+rd
+1
+ Gre
+031,
+ool 
+rd
+1
+s,Fa
+ntas
+art 
+ard
+1033
+itor
+ 27-
+inch
+ved,
+,249
+ard
+34,C
+t Le
+athe
+9-12
+100
+ilte
+12,M
+rd
+1
+036,
+s,Hi
+4.95
+rd
+1
+oard
+cal,
+85.5
+d
+10
+0038
+38,A
+ie S
+Patt
+erne
+0,66
+13,E
+al
+1
+039,
+tora
+9.98
+-13,
+1040
+hild
+ren'
+s Pi
+ctur
+.96,
+,Dro
+r Ba
+sic,
+ard
+1042
+,Yog
+a Pa
+nts 
+Blac
+35.0
+14,E
+al
+1
+oast
+50,4
+5.50
+ard
+44,C
+Stra
+tegy
+39.9
+45,C
+,Web
+cam 
+100
+6,Ap
+l,Po
+Pal
+47,C
+er H
+High
+ Pre
+rd
+1
+t Hi
+y Su
+rd
+1
+049,
+VR H
+et B
+100
+050,
+l,Ja
+ Rai
+1,89
+89.0
+9-17
+100
+051,
+1,Ho
+ital
+le,1
+2.50
+ard
+ler 
+Nove
+17.9
+9,35
+18,S
+ard
+er B
+ank 
+5.00
+18,W
+54,C
+nie 
+55,C
+ Ket
+Fast
+8.99
+,38.
+d
+10
+56,B
+ng G
+uide
+inne
+rs,1
+100
+7,El
+s,Gr
+cs T
+d
+10
+0058
+58,A
+kirt
+,40.
+Pict
+ard
+soph
+assi
+0,21
+20,S
+ard
+61,C
+,Sec
+oor,
+130.
+rd
+1
+062,
+Blou
+se S
+Eleg
+100
+063,
+ and
+ Buc
+Set,
+100
+Shor
+orie
+,2,1
+,26.
+rd
+1
+065,
+er W
+i-Fi
+ 6,1
+2,We
+1,60
+9-22
+100
+ She
+Quee
+n Co
+,55.
+3,Mi
+d
+10
+68,B
+,Pro
+ming
+guag
+e Gu
+ide,
+1,45
+45.0
+d
+10
+69,E
+ble 
+90,8
+-23,
+Shir
+ Red
+8.00
+,54.
+4,Ea
+s,Hu
+midi
+raso
+42.9
+ity 
+,5,7
+37.5
+d
+10
+0073
+73,E
+ss T
+rack
+er P
+5,We
+rd
+1
+074,
+Dres
+xi C
+asua
+l,1,
+59.0
+al
+1
+lass
+atur
+d
+10
+0077
+77,E
+icro
+phon
+e Co
+ser 
+d
+10
+0078
+78,A
+ Dre
+16.0
+26,E
+al
+1
+079,
+Stor
+age 
+ard
+elf-
+Work
+rd
+1
+E-Re
+ader
+ite,
+27,W
+82,C
+1082
+,Hoo
+Pull
+over
+99,4
+-28,
+Pal
+1083
+et L
+uxur
+rd
+1
+r Be
+ginn
+37.8
+d
+10
+0085
+85,E
+g Wi
+d
+10
+0086
+el,L
+eggi
+Grey
+,2,2
+,48.
+l
+10
+87,H
+t of
+oft,
+9-29
+100
+088,
+nce 
+ion 
+Anth
+y,1,
+i Pr
+100
+mpsu
+it D
+e,1,
+30,E
+091,
+alt 
+Pepp
+er G
+0-01
+100
+092,
+oric
+ce,1
+99,1
+h,De
+100
+3,El
+use 
+Pad 
+g,1,
+1094
+,Bla
+al B
+,99.
+10-0
+2,Ea
+ayPa
+95,H
+r Dr
+awer
+50,3
+4-10
+Linu
+0,32
+ard
+,Ada
+ Uni
+9,39
+03,W
+p-Fl
+099,
+rea 
+Rug 
+Shag
+gy G
+03,M
+rd
+1
+100,
+oche
+extb
+85.0
+d
+Cust
+me,Q
+uant
+talP
+tMet
+hod
+01,C
+,Sma
+Mode
+'s T
+50.0
+,1,8
+0004
+el V
+,47.
+Wire
+149.
+'s J
+55.9
+007,
+fee 
+luxe
+08,C
+1008
+Ital
+ian,
+cs,L
+aker
+011,
+ Vac
+1,35
+ard
+13,C
+100
+Wint
+9-05
+100
+49.9
+100
+Text
+,75.
+rd
+1
+ard
+,Bas
+25.0
+,Des
+,33.
+1,El
+ Cam
+022,
+ic 5
+0,50
+08,E
+d
+10
+100
+025,
+Summ
+lora
+t La
+ard
+1028
+rave
+pe,1
+029,
+s,Po
+rtab
+peak
+ini,
+al
+1
+79.9
+9,79
+16.9
+,Mon
+own,
+C103
+er F
+r Pi
+r,1,
+30.0
+0,30
+ical
+ Non
+,24.
+95,2
+2,So
+Keyb
+ Mec
+9-13
+ge B
+aske
+ard
+e Bo
+ard
+uadc
+ks,B
+usin
+ess 
+k,1,
+ard
+00,6
+hirt
+ Whi
+25.9
+8,C1
+048,
+eads
+cket
+lue,
+,Dig
+53,C
+,Pow
+0mAh
+ard
+1054
+,Hat
+ Bea
+Pal
+tle 
+0056
+,Gar
+50,1
+1,75
+75.0
+ Ple
+Pal
+59,C
+,Hom
+ure 
+Fram
+y Cl
+mera
+1,We
+ilk 
+9-21
+3,Ho
+064,
+rd
+1
+066,
+Jean
+s Sl
+im F
+it G
+rey,
+7,Ho
+,Bed
+ets 
+tton
+,1,5
+dwes
+9-23
+0069
+cs,P
+orta
+Hard
+9.90
+100
+070,
+Neck
+st,P
+l
+10
+71,H
+1,42
+100
+072,
+dren
+'s A
+cs,F
+ro,1
+25,E
+ds,D
+omet
+,11.
+ard
+1076
+e No
+vel,
+nden
+9,C1
+,29.
+99,2
+80,C
+Impr
+ovem
+7,So
+,139
+ard
+die 
+ck,1
+83,C
+Bath
+65.0
+0008
+2,18
+.90,
+cs,H
+et G
+79.0
+ngs 
+Fitn
+9,Ea
+ome 
+ 2 S
+.95,
+8,Bo
+olog
+17.5
+ard
+1089
+,Min
+tor 
+99.9
+9.99
+al
+1
+rind
+al R
+oman
+XL G
+01,W
+ard
+94,C
+zer 
+l
+10
+0095
+s,Dr
+esse
+-02,
+ard
+1096
+echn
+ual 
+97,C
+1097
+pter
+l,2,
+ard
+,7.0
+al
+1
+mist
+ry T
+ook,
+24-1
+ry,P
+1002
+-18,
+1013
+-08,
+rodu
+-16,
+9-03
+0,75
+035,
+043,
+and 
+-07,
+1,11
+1055
+067,
+s Ma
+Cont
+ts S
+5,20
+ner,
+1,13
+tion
+027,
+00,5
+4,8.
+er,2
+0000
+aphi
+Orde
+rID,
+omer
+ID,P
+tego
+ry,P
+rodu
+ctNa
+Unit
+Pric
+talP
+rice
+,Ord
+erDa
+te,R
+egio
+n,Pa
+ymen
+01,C
+1001
+,Sma
+rtph
+one 
+Mode
+9.99
+.99,
+01,W
+ard
+02,C
+1002
+,Men
+'s T
+-Shi
+2,25
+9-01
+100
+003,
+,Ble
+nder
+ Pro
+,1,8
+9.50
+,89.
+dwes
+edit
+d
+10
+0004
+04,B
+,Fic
+tion
+ Nov
+el V
+ol 1
+5.99
+97,2
+2,So
+uth,
+rd
+1
+0000
+5,C1
+005,
+Elec
+Wire
+ Hea
+dpho
+nes 
+Z,1,
+49.9
+9-02
+d
+10
+06,A
+ppar
+el,W
+omen
+'s J
+eans
+ Ski
+1,55
+.90,
+55.9
+100
+7,Ho
+,Cof
+fee 
+Make
+luxe
+20.0
+0,12
+-03,
+ard
+08,C
+ook 
+ian,
+2,30
+60.0
+9-03
+th,D
+09,E
+lect
+cs,L
+r Un
+iver
+1,35
+.50,
+0010
+,C10
+10,A
+ppar
+el,K
+id's
+s Re
+d,1,
+45.9
+9,45
+.99,
+al
+1
+0001
+011,
+ds,S
+mart
+uum 
+ner,
+,350
+rd
+1
+2,C1
+012,
+Book
+s,Bi
+ogra
+of A
+19.9
+9,19
+.99,
+ard
+1013
+erna
+D 1T
+B,2,
+95.0
+l,Sc
+arf 
+Wint
+er W
+ool,
+4,18
+72.0
+0,20
+9-05
+yPal
+100
+015,
+C101
+5,Ho
+oods
+,Set
+ of 
+6 Di
+nner
+ Pla
+tes,
+49.9
+9-05
+Card
+100
+C101
+Scie
+book
+,1,7
+5.50
+,75.
+uth,
+Debi
+rd
+1
+7,C1
+Elec
+ng M
+,3,4
+,120
+06,W
+ard
+1018
+,App
+arel
+,Bas
+ack,
+2,12
+.50,
+0,20
+24-0
+9-06
+yPal
+100
+019,
+C101
+oods
+ED,1
+99,3
+3.99
+ard
+20,C
+1020
+ks,S
+Help
+ Gui
+de,1
+,22.
+Sout
+h,De
+1,El
+s,Ac
+tion
+ Cam
+era 
+4K,1
+,299
+.99,
+299.
+99,2
+rd
+1
+2,C1
+022,
+rel,
+s At
+hlet
+ic 5
+k,5,
+10.0
+0,50
+0002
+3,C1
+023,
+ds,A
+ir F
+ryer
+pact
+,1,6
+,69.
+90,2
+024-
+8,Mi
+t,Cr
+ Car
+d
+10
+24,B
+ooks
+try 
+Coll
+on,2
+,14.
+-08,
+Sout
+025,
+C102
+onic
+s,Sm
+,1,1
+99.0
+9.00
+-09,
+West
+,Cre
+100
+C102
+ess 
+Summ
+er F
+l,1,
+49.9
+9,49
+.99,
+al
+1
+0002
+7,C1
+ds,C
+e Se
+t La
+vend
+er,3
+,15.
+00,4
+5.00
+ard
+,Boo
+rave
+l Gu
+ide 
+Euro
+pe,1
+8.50
+-10,
+h,De
+100
+029,
+9,El
+onic
+s,Po
+rtab
+le S
+ini,
+2,55
+024-
+rd
+1
+0,C1
+Appa
+ter 
+Knit
+ Gre
+0,65
+10,E
+ast,
+0003
+Home
+ds,T
+ool 
+Basi
+c,1,
+79.9
+9,79
+11,M
+rd
+1
+2,C1
+Book
+ntas
+ic P
+1,1,
+16.9
+.99,
+33,C
+1033
+,Ele
+,Mon
+itor
+ 27-
+inch
+ Cur
+1,24
+,249
+11,W
+it C
+,App
+arel
+t Le
+own,
+0,20
+24-0
+9-12
+yPal
+100
+C103
+oods
+tche
+r,1,
+2024
+idwe
+0003
+6,C1
+036,
+Book
+s,Hi
+ Non
+-Fic
+95,2
+024-
+2,So
+uth,
+7,C1
+037,
+Keyb
+oard
+ Mec
+hani
+cal,
+.50,
+85.5
+0,20
+,Wes
+,C10
+ppar
+el,T
+d,3,
+2024
+13,E
+ast,
+al
+1
+039,
+Home
+ Goo
+ge B
+aske
+et,2
+,19.
+99,3
+-13,
+it C
+,Boo
+ks,C
+hild
+s Pi
+9,35
+.96,
+2024
+14,S
+ard
+1041
+,Ele
+uadc
+opte
+r Ba
+sic,
+1,15
+,150
+2024
+it C
+ard
+42,C
+1042
+arel
+,Yog
+a Pa
+nts 
+0,35
+2024
+14,E
+al
+1
+0004
+043,
+ Goo
+oast
+-Sli
+,45.
+50,4
+Cust
+ID,P
+ry,P
+rodu
+ctNa
+me,Q
+ity,
+Unit
+Pric
+e,To
+talP
+erDa
+ymen
+tMet
+hod
+one 
+,799
+02,C
+'s T
+rt B
+50.0
+9-01
+003,
+04,B
+el V
+97,2
+09-0
+005,
+Wire
+Z,1,
+24-0
+,C10
+el,W
+'s J
+eans
+1,55
+24-0
+9-02
+,Cof
+fee 
+r De
+luxe
+-03,
+est,
+ard
+1008
+ookb
+Ital
+ian,
+0,20
+apto
+p Ch
+arge
+iver
+35.5
+0,20
+,Wes
+d
+10
+10,A
+el,K
+aker
+s Re
+45.9
+.99,
+04,E
+011,
+ Vac
+Clea
+-09-
+04,M
+t Ca
+rd
+1
+012,
+rtis
+.99,
+-09-
+ctro
+D 1T
+B,2,
+,202
+-05,
+arf 
+72.0
+24-0
+015,
+C101
+ of 
+6 Di
+tes,
+.99,
+9,20
+100
+6,Bo
+Text
+,1,7
+,75.
+uth,
+Debi
+Elec
+tron
+ics,
+Gami
+ouse
+est,
+ard
+1000
+1018
+arel
+,Bas
+l Ca
+2,12
+25.0
+0,20
+100
+C101
+oods
+k La
+ED,1
+,202
+Midw
+it C
+ard
+1000
+1020
+,Boo
+-07,
+Card
+021,
+tion
+ Cam
+09-0
+2,C1
+s At
+k,5,
+10.0
+2024
+-09-
+08,E
+ast,
+al
+1
+023,
+ Goo
+ryer
+ Com
+,69.
+09-0
+8,Mi
+0024
+24,B
+,Poe
+ecti
+,202
+-08,
+Sout
+100
+025,
+5,El
+onic
+ness
+0,19
+9.00
+Card
+100
+C102
+pare
+Summ
+0002
+7,C1
+027,
+andl
+e Se
+er,3
+-09,
+ard
+28,C
+l Gu
+ide 
+50,2
+h,De
+029,
+9,El
+ectr
+onic
+s,Po
+peak
+er M
+024-
+Appa
+Knit
+ Gre
+2024
+ast,
+al
+1
+0003
+031,
+ Goo
+Set 
+Basi
+79.9
+11,M
+2,C1
+032,
+s,Fa
+ntas
+y Ep
+ic P
+1,1,
+9,16
+.99,
+2024
+-09-
+33,C
+,Ele
+,Mon
+ 27-
+ Cur
+ved,
+,249
+2024
+it C
+1034
+r Br
+own,
+24-0
+yPal
+oods
+,Wat
+er F
+r Pi
+r,1,
+12,M
+idwe
+Book
+ Non
+tion
+,24.
+2,So
+037,
+oard
+ Mec
+.50,
+24-0
+t,Cr
+d
+10
+0038
+el,T
+d,3,
+22.0
+.00,
+ast,
+al
+1
+ Goo
+tora
+ts S
+99,3
+-13,
+Midw
+Cred
+1040
+,Boo
+ks,C
+ren'
+ok,4
+,8.9
+.96,
+14,S
+1000
+41,C
+ctro
+,Dro
+sic,
+.00,
+-09-
+14,W
+1000
+42,C
+1042
+,Yog
+a Pa
+35.0
+2024
+al
+1
+043,
+oast
+er 4
+50,4
+,202
+4-09
+Midw
+ks,B
+Stra
+ Boo
+39.9
+.99,
+outh
+,Deb
+ard
+1000
+nics
+West
+Card
+100
+6,Ap
+pare
+,28.
+4-09
+er H
+High
+9,25
+Debi
+t Ca
+rd
+1
+9,C1
+tron
+asic
+9.00
+West
+Card
+pare
+l,Ja
+lue,
+1,89
+89.0
+0,20
+,Eas
+yPal
+chen
+,22.
+,202
+Midw
+1000
+w,2,
+9,35
+18,S
+ard
+53,C
+5.00
+2024
+-09-
+Cred
+it C
+54,C
+1054
+00,5
+Pal
+55,C
+Elec
+dwes
+ooks
+uide
+,19.
+50,1
+4-09
+h,De
+100
+C105
+all,
+.00,
+ Car
+,C10
+00,4
+4-09
+,Pay
+59,C
+,Hom
+ods,
+4-09
+Cred
+60,C
+0,21
+2024
+ard
+1000
+61,C
+ctro
+mera
+.00,
+024-
+2,C1
+062,
+Appa
+ilk 
+1,59
+.99,
+59.9
+100
+,Mop
+ and
+ket 
+1,34
+34.5
+24-0
+9-21
+,Cre
+C106
+00,2
+Debi
+5,C1
+ics,
+er W
+i-Fi
+.00,
+00,2
+2,We
+6,C1
+Appa
+s Sl
+1,60
+60.0
+24-0
+067,
+7,Ho
+,Bed
+5.99
+024-
+edit
+d
+10
+68,B
+ming
+ Lan
+e Gu
+45.0
+24-0
+ Car
+0069
+69,E
+lect
+cs,P
+ble 
+,89.
+9.90
+West
+dit 
+Card
+0,Ap
+t V-
+0071
+,C10
+s,Hu
+Card
+100
+072,
+C107
+oks,
+ctiv
+0,20
+24-0
+ Car
+d
+10
+,C10
+cs,F
+.00,
+09-2
+5,We
+Appa
+59.0
+0,59
+.00,
+2024
+25,E
+PayP
+0007
+075,
+Home
+herm
+er,2
+3.00
+4-09
+ard
+1000
+,Boo
+lass
+ic L
+1,15
+0,20
+,Sou
+ Car
+d
+10
+,C10
+roni
+USB,
+.99,
+9,20
+edit
+ Car
+d
+10
+0078
+78,A
+ppar
+ Dre
+-Pac
+PayP
+ood 
+rs S
+9.99
+,202
+4-09
+Cred
+ard
+,Boo
+elf-
+Impr
+Work
+book
+09-2
+Debi
+1,C1
+081,
+tron
+1,13
+9.00
+.00,
+2024
+-09-
+27,W
+1000
+,Hoo
+Pull
+over
+,202
+4-09
+-28,
+,Pay
+ods,
+et L
+65.0
+idwe
+st,C
+t Ca
+rd
+1
+s,Co
+2,18
+.90,
+,Sou
+ebit
+ Car
+d
+10
+85,E
+eads
+1,79
+79.0
+24-0
+t,Cr
+edit
+d
+10
+86,A
+eggi
+,2,2
+,48.
+00,2
+9,Ea
+st,P
+0087
+,C10
+ome 
+llow
+s Se
+t of
+ 2 S
+oft,
+49.9
+5,20
+9-29
+dit 
+olog
+17.5
+0,17
+2024
+ard
+1089
+ojec
+tor 
+9.99
+West
+,Cre
+dit 
+100
+enim
+e,1,
+75.0
+-09-
+ast,
+1,C1
+Home
+alt 
+Pepp
+0,20
+,Cre
+100
+092,
+2,Bo
+oric
+-01,
+Sout
+h,De
+093,
+3,El
+onic
+use 
+20.0
+2024
+01,W
+Cred
+1000
+94,C
+1094
+,App
+zer 
+lack
+,1,9
+9.99
+,99.
+10-0
+2,Ea
+st,P
+0095
+esse
+awer
+4,8.
+50,3
+4.00
+-02,
+est,
+1000
+echn
+ Man
+0,32
+2024
+02,S
+outh
+1000
+97,C
+1097
+,Ada
+vers
+l,2,
+9,39
+ard
+1000
+98,C
+arel
+,Fli
+ops 
+h We
+ar,5
+0,35
+PayP
+0009
+ Goo
+rea 
+Shag
+gy G
+03,M
+redi
+t Ca
+100,
+s,Bi
+oche
+extb
+ook,
+85.0
+0-04
+ Car
+d
+rID,
+omer
+ID,P
+ctCa
+tego
+rodu
+ctNa
+me,Q
+ity,
+Unit
+e,To
+talP
+rice
+,Ord
+erDa
+egio
+n,Pa
+ymen
+tMet
+hod
+1000
+1001
+nics
+rtph
+one 
+Mode
+l X,
+1,79
+9.99
+.99,
+2024
+-09-
+01,W
+est,
+Cred
+it C
+1000
+1002
+,App
+arel
+,Men
+'s T
+-Shi
+2,25
+0,20
+9-01
+t,Pa
+100
+C100
+3,Ho
+me G
+oods
+ Pro
+,1,8
+024-
+09-0
+dwes
+t,Cr
+edit
+ Car
+0004
+,C10
+ooks
+ Nov
+el V
+,3,1
+,47.
+97,2
+024-
+09-0
+2,So
+uth,
+rd
+1
+0000
+Elec
+ics,
+Wire
+ Hea
+dpho
+nes 
+Z,1,
+149.
+99,1
+24-0
+t,Cr
+edit
+d
+10
+,C10
+06,A
+ppar
+el,W
+'s J
+eans
+ Ski
+nny,
+.90,
+0,20
+24-0
+9-02
+t,Pa
+100
+C100
+7,Ho
+me G
+oods
+Make
+luxe
+20.0
+0,12
+,202
+-03,
+Midw
+est,
+it C
+ard
+08,C
+1008
+,Boo
+ks,C
+ookb
+ook 
+Ital
+ian,
+.00,
+0,20
+24-0
+9-03
+ebit
+ Car
+d
+10
+,C10
+09,E
+lect
+cs,L
+apto
+arge
+r Un
+iver
+1,35
+.50,
+0,20
+9-03
+,Wes
+t,Cr
+ Car
+d
+10
+0010
+10,A
+el,K
+id's
+ Sne
+aker
+d,1,
+2024
+-09-
+04,E
+al
+1
+0001
+ Goo
+mart
+ Vac
+uum 
+ner,
+,350
+.00,
+-09-
+04,M
+idwe
+st,C
+redi
+t Ca
+0001
+2,C1
+012,
+Book
+s,Bi
+ogra
+of A
+rtis
+t,1,
+9,19
+.99,
+2024
+04,S
+outh
+,Deb
+it C
+ard
+1000
+13,C
+1013
+nics
+,Ext
+erna
+D 1T
+B,2,
+95.0
+4-09
+-05,
+,Cre
+Card
+100
+C101
+4,Ap
+pare
+l,Sc
+arf 
+Wint
+4,18
+0,20
+24-0
+9-05
+,Eas
+t,Pa
+yPal
+100
+C101
+5,Ho
+me G
+,Set
+ of 
+6 Di
+nner
+ Pla
+tes,
+1,49
+.99,
+49.9
+24-0
+9-05
+Card
+100
+C101
+Scie
+nce 
+Text
+book
+5.50
+,75.
+50,2
+024-
+6,So
+uth,
+7,C1
+017,
+Elec
+ics,
+Gami
+ng M
+ouse
+0.00
+,120
+.00,
+-09-
+est,
+Cred
+it C
+ard
+1000
+18,C
+,App
+arel
+ebal
+l Ca
+ack,
+2,12
+25.0
+0,20
+24-0
+,Eas
+t,Pa
+yPal
+100
+019,
+C101
+9,Ho
+me G
+mp L
+ED,1
+99,3
+4-09
+-07,
+20,C
+1020
+,Boo
+Help
+ Gui
+de,1
+,22.
+2.00
+-07,
+Sout
+Card
+100
+1,El
+ectr
+onic
+tion
+ Cam
+era 
+4K,1
+99,2
+09-0
+7,We
+redi
+rd
+1
+0002
+022,
+Appa
+rel,
+Sock
+s At
+hlet
+10.0
+0,50
+2024
+-09-
+08,E
+ast,
+PayP
+al
+1
+0002
+3,C1
+023,
+ Goo
+ir F
+,1,6
+9.90
+,69.
+90,2
+024-
+09-0
+8,Mi
+t,Cr
+d
+10
+,C10
+ooks
+,Poe
+try 
+ecti
+on,2
+,14.
+50,2
+9.00
+,202
+4-09
+-08,
+h,De
+bit 
+100
+onic
+atch
+ness
+,1,1
+0,19
+4-09
+West
+,Cre
+dit 
+Card
+100
+026,
+C102
+pare
+er F
+lora
+49.9
+.99,
+-09-
+ast,
+PayP
+0002
+7,C1
+027,
+Home
+ Goo
+andl
+e Se
+t La
+er,3
+,15.
+00,4
+,202
+4-09
+-09,
+est,
+it C
+1000
+28,C
+1028
+rave
+l Gu
+ide 
+Euro
+pe,1
+50,2
+8.50
+4-09
+h,De
+bit 
+Card
+029,
+C102
+9,El
+ectr
+onic
+le S
+er M
+ini,
+.00,
+0,We
+st,C
+redi
+rd
+1
+0003
+0,C1
+Appa
+rel,
+ter 
+Knit
+65.0
+0,65
+.00,
+-09-
+10,E
+PayP
+al
+1
+1,C1
+Home
+Set 
+79.9
+9,79
+-09-
+11,M
+idwe
+st,C
+0003
+2,C1
+032,
+Book
+s,Fa
+ntas
+ic P
+art 
+1,1,
+9,16
+outh
+,Deb
+it C
+ard
+1000
+,Ele
+ctro
+nics
+,Mon
+itor
+ 27-
+inch
+ Cur
+ved,
+1,24
+9.00
+,249
+.00,
+2024
+-09-
+11,W
+est,
+Cred
+it C
+1000
+34,C
+arel
+,Bel
+t Le
+athe
+own,
+2,20
+.00,
+40.0
+9-12
+,Eas
+yPal
+035,
+C103
+5,Ho
+me G
+oods
+,Wat
+r Pi
+r,1,
+30.0
+.00,
+2024
+12,M
+idwe
+st,C
+t Ca
+0003
+036,
+Book
+ Non
+4.95
+,24.
+95,2
+024-
+09-1
+2,So
+uth,
+Debi
+t Ca
+rd
+1
+0003
+037,
+Elec
+tron
+ics,
+oard
+ Mec
+cal,
+1,85
+.50,
+85.5
+0,20
+9-13
+,Wes
+t,Cr
+edit
+ Car
+0038
+38,A
+el,T
+ie S
+Patt
+erne
+22.0
+0,66
+.00,
+2024
+-09-
+PayP
+al
+1
+0003
+ge B
+ts S
+et,2
+,19.
+99,3
+9.98
+,202
+4-09
+Midw
+Cred
+ard
+1000
+ks,C
+ren'
+s Pi
+ctur
+e Bo
+,8.9
+9,35
+.96,
+2024
+14,S
+it C
+41,C
+,Ele
+ctro
+nics
+,Dro
+ne Q
+uadc
+opte
+1,15
+,150
+.00,
+2024
+14,W
+ard
+1000
+1042
+,App
+arel
+,Yog
+nts 
+Blac
+k,1,
+35.0
+0,35
+.00,
+2024
+-09-
+14,E
+ast,
+0004
+3,C1
+043,
+ Goo
+ds,T
+oast
+er 4
+ce,1
+,45.
+50,4
+,202
+4-09
+-15,
+Midw
+Cred
+ard
+1000
+,Boo
+usin
+ess 
+tegy
+k,1,
+39.9
+9,39
+.99,
+-09-
+15,S
+outh
+,Deb
+ard
+1000
+45,C
+1045
+,Ele
+ctro
+,Web
+0.00
+,202
+-15,
+West
+dit 
+Card
+6,Ap
+pare
+lo S
+,28.
+00,5
+6.00
+,202
+4-09
+-16,
+Pal
+1000
+Show
+er H
+High
+ Pre
+ssur
+e,1,
+25.9
+9,25
+.99,
+-09-
+16,M
+idwe
+st,C
+rd
+1
+8,C1
+048,
+s,Ar
+stor
+,1,5
+00,2
+024-
+09-1
+6,So
+uth,
+rd
+1
+0004
+9,C1
+ics,
+VR H
+eads
+et B
+0,29
+9.00
+,202
+4-09
+West
+dit 
+100
+050,
+0,Ap
+l,Ja
+of B
+lue,
+1,89
+9-17
+,Eas
+t,Pa
+yPal
+100
+051,
+C105
+me G
+,Dig
+ital
+chen
+ Sca
+le,1
+,22.
+,202
+4-09
+-17,
+Midw
+est,
+Cred
+ard
+ler 
+Nove
+l Ne
+w,2,
+17.9
+9,35
+.98,
+2024
+outh
+it C
+ard
+1000
+1053
+,Ele
+ctro
+nics
+er B
+ank 
+2000
+0mAh
+5.00
+.00,
+2024
+-09-
+18,W
+it C
+ard
+1054
+,Hat
+ Bea
+nie 
+Wint
+,14.
+00,5
+,202
+4-09
+-18,
+East
+,Pay
+Pal
+1000
+55,C
+1055
+,Hom
+e Go
+Elec
+tric
+ Ket
+tle 
+8.99
+,38.
+99,2
+09-1
+9,Mi
+dwes
+edit
+ Car
+d
+10
+0056
+,C10
+56,B
+ooks
+deni
+ng G
+uide
+ Beg
+,19.
+50,1
+,202
+4-09
+-19,
+Sout
+bit 
+100
+057,
+C105
+7,El
+ectr
+onic
+s,Gr
+aphi
+able
+t Sm
+all,
+1,75
+75.0
+24-0
+9-19
+,Wes
+t,Cr
+edit
+0058
+,C10
+ppar
+el,S
+kirt
+ Ple
+ck,1
+,40.
+0.00
+,202
+4-09
+East
+Pal
+,Hom
+e Go
+ure 
+Fram
+10,5
+,10.
+00,5
+,202
+-20,
+est,
+Cred
+ard
+60,C
+,Boo
+hilo
+y Cl
+assi
+21.0
+0,21
+2024
+-09-
+20,S
+outh
+it C
+1000
+ctro
+urit
+2,65
+.00,
+00,2
+1,We
+st,C
+redi
+t Ca
+2,C1
+062,
+Appa
+rel,
+Blou
+ilk 
+ant,
+1,59
+59.9
+9,20
+24-0
+9-21
+,Eas
+t,Pa
+yPal
+100
+063,
+C106
+3,Ho
+ Buc
+ket 
+Set,
+1,34
+34.5
+0,20
+9-21
+,Mid
+west
+,Cre
+dit 
+Card
+100
+064,
+4,Bo
+Shor
+t St
+s Co
+,2,1
+3.00
+,26.
+00,2
+024-
+09-2
+2,So
+uth,
+Debi
+t Ca
+rd
+1
+5,C1
+065,
+Elec
+tron
+Rout
+er W
+ 6,1
+,120
+.00,
+120.
+st,C
+redi
+t Ca
+rd
+1
+6,C1
+066,
+rel,
+Jean
+s Sl
+it G
+1,60
+.00,
+60.0
+0,20
+24-0
+9-22
+,Eas
+t,Pa
+yPal
+100
+067,
+7,Ho
+me G
+oods
+n Co
+tton
+,1,5
+5.99
+,55.
+99,2
+024-
+09-2
+dwes
+t,Cr
+edit
+ Car
+68,B
+ming
+ Lan
+ide,
+1,45
+.00,
+0,20
+24-0
+9-23
+,Sou
+ebit
+ Car
+d
+10
+0069
+lect
+roni
+cs,P
+orta
+ble 
+Hard
+ Dri
+ve 2
+TB,1
+,89.
+90,8
+,202
+4-09
+-23,
+West
+,Cre
+Card
+100
+070,
+C107
+pare
+Shir
+t V-
+Neck
+ Red
+8.00
+,54.
+00,2
+024-
+4,Ea
+ayPa
+l
+10
+71,H
+ome 
+s,Hu
+midi
+ Ult
+raso
+nic,
+.99,
+24-0
+9-24
+west
+,Cre
+dit 
+Card
+100
+C107
+2,Bo
+Chil
+dren
+'s A
+ctiv
+Book
+.50,
+37.5
+0,20
+24-0
+9-24
+,Sou
+th,D
+ebit
+ Car
+0073
+,C10
+lect
+roni
+cs,F
+itne
+ss T
+er P
+110.
+00,2
+09-2
+5,We
+redi
+t Ca
+rd
+1
+0007
+4,C1
+074,
+Appa
+Orde
+omer
+ID,P
+rodu
+ctCa
+rodu
+me,Q
+uant
+ity,
+Unit
+Pric
+e,To
+erDa
+te,R
+egio
+n,Pa
+ymen
+hod
+
+1001
+,Ele
+ctro
+rtph
+one 
+Mode
+1,79
+9.99
+.99,
+2024
+-09-
+01,W
+est,
+Cred
+ard
+
+1000
+02,C
+1002
+arel
+lue,
+2,25
+50.0
+0,20
+24-0
+9-01
+,Eas
+yPal
+
+100
+003,
+C100
+me G
+nder
+ Pro
+,1,8
+,89.
+50,2
+024-
+1,Mi
+t,Cr
+edit
+ Car
+d
+10
+,C10
+ooks
+tion
+ Nov
+ol 1
+5.99
+,47.
+97,2
+024-
+2,So
+Debi
+rd
+1
+0000
+5,C1
+Elec
+ics,
+Wire
+less
+nes 
+Z,1,
+149.
+99,1
+9,20
+24-0
+9-02
+t,Cr
+ Car
+d
+10
+0006
+06,A
+ppar
+el,W
+'s J
+nny,
+1,55
+.90,
+55.9
+0,20
+24-0
+9-02
+,Eas
+t,Pa
+
+100
+007,
+7,Ho
+me G
+oods
+,Cof
+Make
+r De
+luxe
+20.0
+0,12
+0.00
+,202
+4-09
+-03,
+Midw
+est,
+Cred
+1000
+08,C
+1008
+,Boo
+ookb
+Ital
+ian,
+2,30
+.00,
+0,20
+24-0
+9-03
+th,D
+ Car
+d
+10
+0009
+,C10
+09,E
+roni
+cs,L
+apto
+p Ch
+arge
+r Un
+.50,
+35.5
+9-03
+,Wes
+t,Cr
+edit
+ Car
+d
+10
+0010
+,C10
+ppar
+id's
+ Sne
+aker
+s Re
+d,1,
+45.9
+9,45
+.99,
+2024
+-09-
+04,E
+PayP
+al
+1
+0001
+1,C1
+011,
+ds,S
+ Vac
+uum 
+Clea
+ner,
+0.00
+.00,
+04,M
+idwe
+redi
+t Ca
+rd
+1
+2,C1
+012,
+Book
+s,Bi
+of A
+t,1,
+19.9
+9,19
+2024
+-09-
+outh
+,Deb
+13,C
+,Ext
+erna
+l SS
+D 1T
+B,2,
+95.0
+4-09
+-05,
+West
+,Cre
+dit 
+Card
+
+100
+014,
+C101
+pare
+l,Sc
+arf 
+Wint
+72.0
+0,20
+24-0
+9-05
+yPal
+015,
+C101
+me G
+oods
+ of 
+6 Di
+tes,
+1,49
+.99,
+24-0
+,Mid
+,Cre
+dit 
+Card
+
+100
+C101
+oks,
+Scie
+nce 
+book
+,1,7
+5.50
+,75.
+50,2
+024-
+09-0
+6,So
+uth,
+Debi
+rd
+1
+7,C1
+017,
+Elec
+tron
+ics,
+ RGB
+,3,4
+0.00
+-09-
+est,
+Cred
+it C
+1000
+18,C
+1018
+,App
+arel
+,Bas
+ebal
+p Bl
+ack,
+2,12
+.50,
+0,20
+9-06
+t,Pa
+
+100
+9,Ho
+me G
+oods
+mp L
+99,3
+3.99
+4-09
+est,
+Cred
+it C
+ard
+
+1000
+1020
+,Boo
+elf-
+Help
+ Gui
+de,1
+,22.
+2.00
+,202
+4-09
+h,De
+bit 
+Card
+
+100
+021,
+C102
+1,El
+ Cam
+era 
+4K,1
+,299
+.99,
+024-
+7,We
+redi
+t Ca
+rd
+1
+0002
+2,C1
+022,
+Appa
+Sock
+s At
+hlet
+ic 5
+-Pac
+k,5,
+0,50
+2024
+-09-
+08,E
+PayP
+al
+1
+0002
+023,
+Home
+ir F
+ryer
+ Com
+,1,6
+9.90
+,69.
+024-
+8,Mi
+dwes
+t,Cr
+edit
+ Car
+0024
+,C10
+ooks
+try 
+Coll
+on,2
+,14.
+50,2
+9.00
+Sout
+h,De
+Card
+
+100
+025,
+5,El
+onic
+s,Sm
+artw
+atch
+,1,1
+99.0
+0,19
+,202
+4-09
+
+100
+026,
+C102
+6,Ap
+pare
+ess 
+Summ
+er F
+lora
+49.9
+9,49
+2024
+ast,
+al
+1
+7,C1
+Home
+ds,C
+andl
+e Se
+vend
+er,3
+,15.
+00,4
+5.00
+,202
+est,
+Cred
+it C
+1000
+28,C
+1028
+,Boo
+ks,T
+rave
+ide 
+pe,1
+,28.
+50,2
+8.50
+,202
+4-09
+Sout
+h,De
+Card
+
+100
+029,
+C102
+s,Po
+rtab
+peak
+2,55
+110.
+00,2
+0,We
+st,C
+0,C1
+Appa
+ter 
+65.0
+0,65
+10,E
+ast,
+al
+1
+0003
+1,C1
+ds,T
+ool 
+Set 
+Basi
+9,79
+.99,
+2024
+-09-
+11,M
+idwe
+st,C
+t Ca
+rd
+1
+0003
+Book
+s,Fa
+ic P
+art 
+1,1,
+16.9
+9,16
+.99,
+2024
+-09-
+11,S
+outh
+,Deb
+it C
+1000
+1033
+,Ele
+itor
+ 27-
+inch
+ Cur
+1,24
+9.00
+,249
+.00,
+2024
+-09-
+11,W
+est,
+Cred
+it C
+ard
+
+34,C
+arel
+,Bel
+r Br
+own,
+2,20
+24-0
+,Eas
+t,Pa
+yPal
+
+100
+035,
+,Wat
+ilte
+tche
+r,1,
+2024
+-09-
+idwe
+t Ca
+6,C1
+ical
+ Non
+-Fic
+,1,2
+95,2
+024-
+09-1
+2,So
+uth,
+Debi
+t Ca
+rd
+1
+0003
+7,C1
+Elec
+tron
+Keyb
+oard
+ Mec
+1,85
+.50,
+9-13
+,Wes
+t,Cr
+edit
+d
+10
+,C10
+38,A
+ppar
+el,T
+ilk 
+22.0
+0,66
+.00,
+2024
+ast,
+PayP
+0003
+039,
+Home
+ Goo
+tora
+ge B
+aske
+ts S
+et,2
+,19.
+9.98
+Midw
+est,
+Cred
+it C
+ard
+
+ks,C
+hild
+ren'
+s Pi
+e Bo
+ok,4
+,8.9
+.96,
+2024
+-09-
+it C
+41,C
+1041
+ctro
+nics
+,Dro
+r Ba
+sic,
+1,15
+0.00
+,150
+.00,
+2024
+14,W
+est,
+it C
+ard
+
+,App
+,Yog
+a Pa
+Blac
+35.0
+0,35
+2024
+ast,
+PayP
+al
+1
+043,
+-Sli
+ce,1
+,45.
+,202
+4-09
+est,
+it C
+ard
+
+1000
+44,C
+,Boo
+ks,B
+ess 
+Stra
+tegy
+ Boo
+39.9
+9,39
+.99,
+-09-
+15,S
+outh
+,Deb
+it C
+45,C
+1045
+,Ele
+ctro
+nics
+HD P
+ro,1
+,60.
+00,6
+,202
+4-09
+-15,
+West
+,Cre
+Card
+
+100
+046,
+C104
+6,Ap
+pare
+l,Po
+lo S
+ Whi
+te,2
+00,5
+,202
+4-09
+-16,
+East
+Pal
+
+1000
+47,C
+1047
+,Hom
+e Go
+ods,
+er H
+ead 
+High
+ssur
+25.9
+.99,
+-09-
+idwe
+st,C
+redi
+rd
+1
+0004
+Book
+y Su
+rvey
+5.00
+,55.
+00,2
+024-
+09-1
+6,So
+rd
+1
+0004
+9,C1
+049,
+Elec
+tron
+et B
+asic
+,1,2
+99.0
+0,29
+9.00
+4-09
+-17,
+West
+Card
+
+100
+C105
+pare
+l,Ja
+cket
+ Rai
+npro
+of B
+lue,
+1,89
+89.0
+0,20
+24-0
+9-17
+t,Pa
+yPal
+
+100
+051,
+C105
+me G
+oods
+ital
+ Kit
+chen
+ Sca
+le,1
+,22.
+,202
+4-09
+Midw
+est,
+it C
+ard
+
+52,C
+,Boo
+Nove
+l Ne
+w,2,
+17.9
+9,35
+.98,
+-09-
+18,S
+outh
+,Deb
+it C
+1000
+53,C
+1053
+ctro
+nics
+,Pow
+er B
+ank 
+0mAh
+5.00
+.00,
+2024
+-09-
+18,W
+est,
+Cred
+54,C
+1054
+,App
+ Bea
+nie 
+Wint
+er,4
+00,5
+,202
+East
+,Pay
+1000
+55,C
+1055
+,Hom
+e Go
+ods,
+Elec
+tric
+ Ket
+,1,3
+8.99
+,38.
+024-
+dwes
+t,Cr
+edit
+d
+10
+0056
+56,B
+,Gar
+deni
+ Beg
+50,1
+4-09
+Sout
+h,De
+bit 
+Card
+
+100
+057,
+s,Gr
+cs T
+able
+t Sm
+24-0
+,Wes
+edit
+,C10
+el,S
+ Ple
+ck,1
+,40.
+00,4
+0.00
+,202
+4-09
+-20,
+,Pay
+Pal
+
+1000
+59,C
+1059
+,Hom
+ods,
+Pict
+ure 
+e 8x
+10,5
+,10.
+0.00
+,202
+4-09
+-20,
+est,
+Cred
+60,C
+1060
+ks,P
+assi
+c,1,
+0,21
+2024
+-09-
+20,S
+outh
+it C
+ard
+
+1000
+61,C
+,Ele
+nics
+,Sec
+urit
+mera
+ Ind
+130.
+024-
+09-2
+1,We
+st,C
+redi
+0006
+Appa
+rel,
+ilk 
+Eleg
+ant,
+1,59
+59.9
+24-0
+9-21
+t,Pa
+
+100
+3,Ho
+me G
+oods
+,Mop
+ket 
+Set,
+.50,
+34.5
+0,20
+24-0
+,Cre
+
+100
+064,
+4,Bo
+oks,
+Shor
+llec
+,2,1
+00,2
+024-
+09-2
+2,So
+uth,
+Debi
+rd
+1
+5,C1
+Elec
+ics,
+Rout
+er W
+i-Fi
+,120
+.00,
+09-2
+2,We
+redi
+t Ca
+rd
+1
+0006
+6,C1
+066,
+rel,
+s Sl
+im F
+it G
+1,60
+60.0
+9-22
+,Eas
+t,Pa
+067,
+C106
+7,Ho
+me G
+,Bed
+ She
+ets 
+Quee
+n Co
+tton
+,1,5
+99,2
+024-
+09-2
+3,Mi
+t,Cr
+edit
+,C10
+68,B
+ooks
+gram
+ming
+ Lan
+guag
+ide,
+1,45
+.00,
+9-23
+,Sou
+th,D
+ebit
+d
+10
+,C10
+lect
+roni
+cs,P
+orta
+Hard
+ Dri
+ve 2
+TB,1
+90,8
+9.90
+,202
+4-09
+-23,
+West
+,Cre
+dit 
+Card
+070,
+0,Ap
+pare
+l,T-
+Shir
+t V-
+Neck
+ Red
+8.00
+00,2
+l
+10
+0071
+,C10
+ome 
+Good
+s,Hu
+midi
+fier
+nic,
+1,42
+.99,
+42.9
+24-0
+9-24
+west
+Card
+
+100
+072,
+C107
+2,Bo
+oks,
+Chil
+dren
+'s A
+ity 
+0,20
+24-0
+9-24
+,Sou
+th,D
+ Car
+0073
+73,E
+lect
+roni
+cs,F
+er P
+ro,1
+,110
+.00,
+110.
+00,2
+5,We
+t Ca
+rd
+1
+0007
+4,C1
+074,
+Appa
+rel,
+Dres
+s Ma
+xi C
+asua
+l,1,
+59.0
+0,59
+2024
+25,E
+ast,
+PayP
+al
+1
+0007
+5,C1
+075,
+Home
+ Goo
+herm
+omet
+,11.
+50,2
+3.00
+,202
+4-09
+-25,
+Midw
+Cred
+ard
+
+lass
+iter
+atur
+e No
+vel,
+1,15
+.00,
+0,20
+9-26
+,Sou
+d
+10
+roni
+cs,M
+icro
+phon
+nden
+ser 
+USB,
+1,69
+.99,
+24-0
+,Wes
+edit
+0078
+,C10
+ppar
+ocks
+ss 3
+k,3,
+16.0
+0,48
+2024
+26,E
+PayP
+al
+1
+9,C1
+079,
+Home
+ Goo
+ds,F
+age 
+Cont
+aine
+rs S
+,29.
+99,2
+9.99
+Cred
+it C
+ard
+
+80,C
+1080
+,Boo
+elf-
+Impr
+ovem
+ent 
+book
+,1,2
+3.50
+50,2
+09-2
+7,So
+uth,
+t Ca
+rd
+1
+0008
+ics,
+E-Re
+ader
+erwh
+ite,
+1,13
+9.00
+,139
+.00,
+2024
+-09-
+Cred
+1000
+82,C
+1082
+,App
+,Hoo
+die 
+Pull
+ Bla
+ck,1
+,45.
+5.99
+,202
+4-09
+-28,
+East
+Pal
+
+1000
+1083
+,Hom
+ods,
+ Tow
+el S
+65.0
+0,65
+2024
+-09-
+28,M
+st,C
+redi
+Book
+s,Co
+g fo
+r Be
+ginn
+ers,
+.90,
+24-0
+ebit
+ Car
+0085
+,C10
+85,E
+lect
+roni
+cs,H
+et G
+g Wi
+red,
+.00,
+79.0
+0,20
+9-29
+t,Cr
+ Car
+0086
+ngs 
+Fitn
+ess 
+Grey
+,2,2
+4.00
+024-
+9,Ea
+st,P
+l
+10
+ome 
+s,Pi
+llow
+s Se
+t of
+ 2 S
+1,49
+.95,
+5,20
+24-0
+west
+,Cre
+dit 
+Card
+
+100
+C108
+8,Bo
+Fict
+ion 
+Anth
+17.5
+0,17
+.50,
+,Deb
+ard
+
+,Ele
+nics
+,1,1
+9.99
+,202
+4-09
+West
+,Cre
+090,
+C109
+0,Ap
+l,Ju
+mpsu
+it D
+enim
+ Blu
+e,1,
+0,75
+.00,
+30,E
+ast,
+PayP
+al
+1
+091,
+Home
+ds,S
+Pepp
+ers,
+3,14
+42.0
+24-1
+0-01
+west
+,Cre
+dit 
+Card
+
+100
+C109
+oks,
+Hist
+al R
+oman
+,15.
+99,1
+5.99
+4-10
+-01,
+Sout
+h,De
+bit 
+Card
+
+100
+C109
+3,El
+ectr
+onic
+s,Mo
+Pad 
+20.0
+.00,
+-10-
+01,W
+Cred
+ard
+
+1094
+,App
+arel
+,Bla
+zer 
+al B
+lack
+,1,9
+99,2
+10-0
+2,Ea
+st,P
+ayPa
+l
+10
+,C10
+95,H
+Good
+s,Dr
+r Dr
+ Org
+aniz
+ers,
+50,3
+,202
+4-10
+-02,
+Midw
+Cred
+it C
+96,C
+1096
+,Boo
+echn
+ical
+ Man
+ual 
+Linu
+32.0
+0,32
+.00,
+2024
+-10-
+02,S
+outh
+it C
+ard
+
+97,C
+,Ele
+ctro
+nics
+ Uni
+rave
+l,2,
+19.9
+.98,
+-10-
+03,W
+est,
+Cred
+1000
+98,C
+1098
+,App
+,Fli
+ops 
+h We
+ar,5
+,7.0
+03,E
+al
+1
+9,C1
+Home
+ Goo
+rea 
+Rug 
+1,11
+0.00
+,110
+.00,
+2024
+idwe
+st,C
+redi
+t Ca
+rd
+1
+0010
+0,C1
+100,
+s,Bi
+mist
+1,85
+0,20
+24-1
+0-04
+,Sou
+th,D
+ebit
+ Car
+d
+
